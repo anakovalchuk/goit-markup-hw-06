@@ -536,6 +536,10 @@ screen and (min-resolution: 2dppx) {
 .about-us-subtitle {
     text-align: start;
 }
+
+.about-us-descr {
+    min-width: 264px;
+}
 }
 
 @media screen and (min-width:1158px) {
